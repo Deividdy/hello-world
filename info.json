@@ -1,0 +1,11 @@
+{
+	"cpf" : "",
+	"birthday" : "aaaa-mm-dd",
+	"password" : "",
+	"name" : "",
+	"email" : "nome@dominio.com",
+	"date" : "aaaa-mm-dd hh:mm:ss",
+	"obs" : {
+		"date":"data de cadastro no sistema"
+	}
+}
